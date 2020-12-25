@@ -2,13 +2,9 @@
 
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
-index = {"FunctionNames": "linesdk.ipynb",
-         "Line": "linesdk.ipynb",
-         "LineLambda": "linesdk.ipynb",
-         "SlackBot": "slack.ipynb"}
+index = {"Browser": "shopping.ipynb"}
 
-modules = ["linesdk.py",
-           "slack.py"]
+modules = ["shopping.py"]
 
 doc_url = "https://thanakijwanavit.github.io/linesdk/"
 
