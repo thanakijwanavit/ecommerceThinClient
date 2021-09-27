@@ -1,7 +1,7 @@
 {
-  "villaThinClient": {
+  "linesdk": {
     "Overview": "/",
-    "Title": "DatabaseMigration.html",
-    "Shopping": "shopping.html"
+    "lineSdk": "linesdk.html",
+    "Title": "slack.html"
   }
 }
